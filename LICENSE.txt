@@ -24,4 +24,4 @@ Core Capabilities
 
 
 TAGS
-houdini, houdini-fx, houdini-2026, houdini-pro, 3d-vfx, procedural-3d, fluid-simulation, pro-software-2026, trial-software, windows-software-2026  
+houdini, houdini-fx, houdini-2026, houdini-pro, 3d-vfx, procedural-3d, fluid-simulation, pro-software-2026, trial-software, windows-software-2026   
